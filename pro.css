@@ -34,8 +34,8 @@
     color: #e62e04;
 }
 .inp{
-    width: 40rem;
-    padding-right: 17rem;
+    width: 35rem;
+    padding-right: 5rem;
     height: 2.5rem;
     margin-right: 5pc;
     border: 2px solid #e62e04;
@@ -136,5 +136,5 @@
 }
 
 .photo{
-  margin-bottom:2;
+  /* margin-bottom:40pc; */
 }
