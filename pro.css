@@ -138,3 +138,10 @@
 .photo{
   /* margin-bottom:40pc; */
 }
+
+.grid-container2{
+    display: grid;
+    grid-template-columns: repeat(6,3fr);
+    justify-items: center;
+    /* gap: 1rem; */
+}
