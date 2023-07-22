@@ -142,5 +142,8 @@
 .grid-container2{
     display: grid;
     grid-template-columns: repeat(6,3fr);
-    
+}
+.grid-container3{
+    display: grid;
+    grid-template-columns: repeat(6,3fr);
 }
